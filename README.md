@@ -1,4 +1,4 @@
-# DETECTING BLURRYNESS USING LAPLACIAN
+# DETECTING BLURRYNESS USING LAPLACIAN & FAST FOURIER TRANSFORM
 
 Using the variation of the Laplacian by Pech-Pacheco et al. in their 2000 ICPR paper, Diatom autofocusing in brightfield microscopy: a comparative study.
 
